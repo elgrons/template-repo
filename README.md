@@ -2,7 +2,7 @@
 
 #### (Brief Description of Application)
 
-#### By (Your Name Here)
+#### By Eliot Gronstal
 
 ## Technologies Used
 
@@ -26,6 +26,10 @@
 ## Known Bugs
 
 * _Any known issues_
-* _should go here_
+* Please reach out to Eliot with any questions or concerns at: eliot.lauren@gmail.com
 
 ## License
+
+_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+
+Copyright (c) 2023 Eliot Gronstal
