@@ -29,7 +29,7 @@
 * Include API_KEY={your API key} in the text of the .env file.
 * Navigate to the root folder of this downloaded repo in your terminal.
 * Run npm install.
-* Run npm run start to open the pgae in your default browser.
+* Run npm run start to open the page in your default browser.
 
 * Worth noting for non-Mac users: in the package.json "scripts" for lint: line 9's has an extra " ' " surrounding src:... which allows es lint to access files recursively  "lint": "'eslint src/*.js'",
 
